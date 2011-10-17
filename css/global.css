@@ -5,9 +5,12 @@ body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 a {
-	
+	font-weight: bold;
+	color: #494b4c;
+	text-decoration: none;
+	-webkit-transition: color ease-in 200ms;
 }
-a:hover { }
+a:hover { color: #000; }
 p {
 	margin-top: 5px;
 	line-height: 1.4;
