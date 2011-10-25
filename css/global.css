@@ -11,6 +11,7 @@ a {
 	-webkit-transition: color ease-in 200ms;
 }
 a:hover { color: #000; }
+a.d3r { color: #2D9CAA; }
 p {
 	margin-top: 5px;
 	line-height: 1.4;
@@ -102,7 +103,7 @@ article.other { height: auto; }
 	}
 	article .placeholder {
 		width: 446px;
-		height: 530px;
+		height: 230px;
 
 		border: 1px solid #a9a9a9;
 		-webkit-border-top-left-radius: 8px;
@@ -147,7 +148,7 @@ article.other { height: auto; }
 
 section.about {
 	float: right;
-	width: 420px;
+	width: 430px;
 	padding: 0 25px;
 	margin-bottom: 45px;
 }
