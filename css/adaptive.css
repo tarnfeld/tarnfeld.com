@@ -1,5 +1,10 @@
 @media only screen and (max-width: 930px) {
 
+	/* Wrapper */
+	.wrapper {
+		width: auto;
+	}
+	
 	/* Header */
 	h1 {
 		margin: 50px auto;
