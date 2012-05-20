@@ -12,6 +12,7 @@ a {
 }
 a:hover { color: #000; }
 a.d3r { color: #2D9CAA; }
+a.duedil { color: #CC1F14; }
 p {
 	margin-top: 5px;
 	line-height: 1.4;
